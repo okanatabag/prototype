@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title renders correctly 1`] = `
+<h2
+  className="Title-sc-156iwuq-0 bLOHaJ"
+  color="#ff0000"
+  size="5"
+>
+  Test
+</h2>
+`;

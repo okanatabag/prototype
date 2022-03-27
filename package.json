@@ -1,0 +1,40 @@
+{
+  "name": "prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"next dev\" \"nodemon .\\server\\server.js\"",
+    "build": "next build",
+    "start": "concurrently \"next start\" \"nodemon .\\server\\server.js\"",
+    "lint": "next lint",
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "@heroicons/react": "^1.0.6",
+    "apollo-server": "^3.6.5",
+    "babel-preset-next": "^1.4.0",
+    "cross-fetch": "^3.1.5",
+    "graphql": "^16.3.0",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^8.11.3",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "babel-jest": "^27.5.1",
+    "babel-plugin-styled-components": "^2.0.6",
+    "concurrently": "^7.0.0",
+    "enzyme": "^3.11.0",
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "react-test-renderer": "^17.0.2"
+  }
+}

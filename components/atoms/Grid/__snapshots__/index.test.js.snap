@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid renders correctly 1`] = `
+<div
+  className="Grid-sc-1ebmn77-0 jjKtRp"
+>
+  <button>
+    test1
+  </button>
+  <button>
+    test1
+  </button>
+</div>
+`;
