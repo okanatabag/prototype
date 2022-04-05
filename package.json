@@ -17,7 +17,10 @@
     "cross-fetch": "^3.1.5",
     "graphql": "^16.3.0",
     "next": "12.1.0",
+<<<<<<< HEAD
     "prop-types": "^15.8.1",
+=======
+>>>>>>> b9cde6f17d12c509c1e9bb7145254a0b4fa476c1
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "^5.3.5"
@@ -31,6 +34,7 @@
     "babel-plugin-styled-components": "^2.0.6",
     "concurrently": "^7.0.0",
     "enzyme": "^3.11.0",
+<<<<<<< HEAD
     "eslint": "^8.12.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-next": "12.1.0",
@@ -46,6 +50,13 @@
     "jest": "^27.5.1",
     "nodemon": "^2.0.15",
     "prettier": "^2.6.2",
+=======
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+>>>>>>> b9cde6f17d12c509c1e9bb7145254a0b4fa476c1
     "react-test-renderer": "^17.0.2"
   }
 }

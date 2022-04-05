@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 import { createGlobalStyle } from "styled-components";
 
+=======
+import { createGlobalStyle } from 'styled-components';
+ 
+>>>>>>> b9cde6f17d12c509c1e9bb7145254a0b4fa476c1
 const GlobalStyle = createGlobalStyle`
 body {
     margin: 0;
@@ -63,5 +68,10 @@ meter {
     -webkit-user-drag: element;
 }
 `;
+<<<<<<< HEAD
 
 export default GlobalStyle;
+=======
+ 
+export default GlobalStyle;
+>>>>>>> b9cde6f17d12c509c1e9bb7145254a0b4fa476c1
