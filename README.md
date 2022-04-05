@@ -1,10 +1,15 @@
-## Geliştirme Modunda Başlatmak İçin
+# Geliştirme Modunda Başlatmak İçin
+
 npm run dev
+
 # yada
+
 yarn dev
 
-## Production Modunda Başlatmak için
-npm start
-# yada
-yarn start
+# Production Modunda Başlatmak için
 
+npm start
+
+# yada
+
+yarn start
